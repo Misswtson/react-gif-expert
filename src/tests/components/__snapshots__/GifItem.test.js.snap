@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test en <GifItem/> debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Darth Wader"
+      src="https://star-wars.com/darthwader.jpg"
+    />
+    <p>
+      Darth Wader
+    </p>
+  </div>
+</div>
+`;
